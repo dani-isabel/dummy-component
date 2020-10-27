@@ -1,5 +1,5 @@
 {
-  "name": "dummy-module",
+  "name": "@dani-isabel/dummy-module",
   "version": "3.0.0",
   "description": "A dummy react npm module",
   "main": "index.js",
@@ -10,7 +10,7 @@
   "repository": {
     "url": "git://github.com/dani-isabel/dummy-module.git"
   },
-  "author": "Manoj Singh Negi",
+  "author": "Daniela Bolivar",
   "license": "ISC",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/dani-isabel"
