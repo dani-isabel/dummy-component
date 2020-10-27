@@ -8,7 +8,6 @@
     "build": "./node_modules/.bin/babel src --out-file index.js"
   },
   "repository": {
-    "type": "git",
     "url": "git://github.com/dani-isabel/dummy-module.git"
   },
   "author": "Manoj Singh Negi",
