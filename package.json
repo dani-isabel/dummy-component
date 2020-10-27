@@ -1,12 +1,12 @@
 {
-  "name": "@dani-isabel/dummy-module",
+  "name": "@dani-isabel/dummy-component",
   "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "keywords": [],
   "author": "Daniela Bolivar",
   "repository": {
-    "url":"git://github.com/dani-isabel/dummy-module.git"
+    "url":"git://github.com/dani-isabel/dummy-component.git"
   },
   "license": "MIT",
   "publishConfig": {
